@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img src="https://64.media.tumblr.com/fc003d1fc07fc93045309e9c37176187/dd78c24c6421ec13-c1/s400x600/83b6a7b6a614a7f524de3b29e4bd0090466b4dc6.gifv" width="25%" align="right" />
+<img src="https://i.pinimg.com/736x/3c/76/d4/3c76d41dcc2fb7d5de2a05e27c054f8d.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=50&duration=3500&pause=300&color=E9CFB3FF&center=true&multiline=true&repeat=false&width=1300&height=140&lines=Hello%2C+i'm+Nelson.;Nice+to+meet+you+%F0%93%8D%A2%D6%B4%E0%BB%8B%E2%98%95%EF%B8%8F%CB%9A" width="70%" />
 <br><br>
 <pre>
