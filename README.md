@@ -11,17 +11,17 @@
 
 <div>
   <center>
-    <img height="133em" src="https://github-readme-stats.vercel.app/api?username=vetrfolnir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="132em" src="https://github-readme-stats.vercel.app/api?username=vetrfolnir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetrfolnir&layout=compact&langs_count=7&theme=dark"/> 
+    <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetrfolnir&layout=compact&langs_count=7&theme=dark"/> 
   </center>
 </div>
 
 <br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/lumengraph)
-[![](https://img.shields.io/badge/tumblr-080a38)](https://lumengraph.tumblr.com/)
+[![](https://img.shields.io/badge/tumblr-3a3052)](https://lumengraph.tumblr.com/)
 
 <br>
 </div>
