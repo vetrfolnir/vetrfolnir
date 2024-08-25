@@ -11,10 +11,10 @@
 
 <div>
   <center>
-    <img height="132em" src="https://github-readme-stats.vercel.app/api?username=vetrfolnir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="133em" src="https://github-readme-stats.vercel.app/api?username=vetrfolnir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetrfolnir&layout=compact&langs_count=7&theme=dark"/> 
+    <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetrfolnir&layout=compact&langs_count=7&theme=dark"/> 
   </center>
 </div>
 
